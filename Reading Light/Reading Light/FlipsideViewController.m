@@ -26,6 +26,7 @@
     [super viewDidLoad];
     
     [self.doneButton setTitleTextAttributes:[NSDictionary dictionaryWithObjectsAndKeys: [UIFont fontWithName:@"HelveticaNeue-Light" size:14.0], UITextAttributeFont, nil] forState:UIControlStateNormal];
+    [self.switcher setTitleTextAttributes:[NSDictionary dictionaryWithObjectsAndKeys: [UIFont fontWithName:@"HelveticaNeue-Light" size:12.0], UITextAttributeFont, nil] forState:UIControlStateNormal];
     
     self.currentBrightness = [Brightness singleton].current;
 }
