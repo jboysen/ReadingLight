@@ -7,5 +7,5 @@ Currently the app is not published on the App Store.
 
 ## Screenshots
 
-![alt text](http://www.revolunet.com/static/parisjs8/img/logo-revolunet-carre.jpg "blank screen")
-![alt text](http://www.revolunet.com/static/parisjs8/img/logo-revolunet-carre.jpg "settings")
+![alt text](https://raw.github.com/jboysen/ReadingLight/master/ss_blank.png "blank screen")
+![alt text](https://raw.github.com/jboysen/ReadingLight/master/ss_sett.png "settings")
